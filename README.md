@@ -17,4 +17,4 @@ El componente de reserva de Ovnis y el componente de entrega del pack de bienven
 Sigue el diagrama de clase UML proporcionado para construir la aplicación.
 Si añades algún componente, dibújalo a mano alzada sobre el diagrama.
 
-![Diagrama de clases UML](./diagrama_clases_%20UML_.png)
+![Diagrama de clases UML](./diagrama_clases_UML.png)
