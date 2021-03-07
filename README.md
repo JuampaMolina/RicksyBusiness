@@ -11,3 +11,10 @@ El receptivo carga en el crédito de la tarjeta:
  - El coste del pack de bienvenida (Collaxion crystals).
 
 El componente de reserva de Ovnis y el componente de entrega del pack de bienvenida observan al componente receptivo, de modo que cuando el receptivo da de alta a un invitado/a automáticamente cargan en la tarjeta del invitado/a el coste de ambos servicios. 
+
+## Diagrama de clases UML
+
+Sigue el diagrama de clase UML proporcionado para construir la aplicación.
+Si añades algún componente, dibújalo a mano alzada sobre el diagrama.
+
+![Diagrama de clases UML](./diagrama_clases_%20UML_.png)
